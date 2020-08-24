@@ -1,0 +1,161 @@
+@media (max-width: 767px) {
+    #main__navbar_section .navbar .navbar-nav {
+        margin-left: 0px!important;
+    }
+    #main__navbar_section .navbar .navbar-nav .nav-link {
+        margin-bottom: 1.5rem;
+    }
+    #main__navbar_section .navbar .navbar-nav .BP-lower-col-content-box {
+        margin-bottom: 1.8rem;
+    }
+    .navbar-nav .dropdown-menu {
+        overflow: hidden;
+    }
+    #top_header_container .top_header_contents_box h1 {
+        font-size: 3rem;
+    }
+    #top_header_container .top_header_contents_box p {
+        font-size: 1.6rem;
+        margin-top: 1.2rem;
+    }
+    #top_header_container .top_header_contents_box button {
+        font-size: 1rem;
+        padding: 8px 17px;
+        margin-top: 1rem;
+        margin-bottom: 4rem;
+    }
+    #top_header_container .top_header_container_row_2 {
+        margin-top: 4rem;
+    }
+    #top_header_container .top_header_container_row_2 .Trusted_box h1 {
+        font-size: 2.2rem;
+    }
+    #top_header_container .top_header_container_row_2 .company_img_box {
+        margin-top: 2.3rem;
+    }
+    #top_header_container .top_header_container_row_2 .company_img_box ul li img {
+        width: 6rem;
+        margin-right: 3rem;
+        margin-bottom: 1rem;
+    }
+    #information_cont_img {
+        padding-top: 4rem;
+        text-align: center;
+    }
+    #information_cont_img .row {
+        padding-bottom: 7rem;
+    }
+    #information_cont_img .row .information_cont_box h2 {
+        font-size: 2.6rem;
+        margin-bottom: 3.4rem;
+    }
+    #information_cont_img .row .information_img_box {
+        padding-top: 4rem;
+    }
+    #information_cont_img .row .quotes_box {
+        flex-direction: column;
+    }
+    #geck_work_video_sec .row .dp-bl {
+        display: none!important;
+    }
+    #geck_work_video_sec .row .thumbnail-box button {
+        padding: .7rem 2.4rem;
+        font-size: 1.2rem;
+    }
+    #card_sec .row {
+        padding: 0px!important;
+        text-align: center;
+    }
+    #card_sec .row h1 {
+        font-size: 1.4rem;
+        line-height: 1.5rem;
+    }
+    #card_sec .row .card_sec_col {
+        flex-direction: column;
+    }
+    #card_sec .row .card_sec_col .card_content_box {
+        padding-top: 2rem;
+    }
+    #slider_sec .sld-row-1 .slider_top_contets h2 {
+        font-size: 3rem;
+        text-align: center;
+    }
+    #slider_sec .sld-row-1 .slider_top_contets p {
+        font-size: 1.4rem;
+        text-align: center;
+    }
+    #slider_sec .sld-row-1 .slider-active-link-main-box .slider-active-link-box button {
+        padding: .5rem 2rem;
+    }
+    #slider_sec .sld-row-1 .slider-active-link-main-box .slider-active-link-box button span {
+        font-size: .7rem;
+    }
+    #section_footer .footer_low_rw .ftr_link_box {
+        flex-direction: column;
+    }
+    #section_footer .footer_low_rw .ftr_link_box .ancor_bx {
+        padding-top: 2rem;
+    }
+    #section_footer .footer_low_rw .footer_low_col_2 {
+        justify-content: center!important;
+        padding-top: 2rem;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
+    #main__navbar_section .navbar .navbar-nav {
+        margin-left: 0px!important;
+    }
+    #main__navbar_section .navbar .navbar-nav .nav-link,
+    .login-box .login-link {
+        font-size: 1.2rem;
+    }
+    .login-box .login-link {
+        display: none;
+    }
+    #main__navbar_section .navbar .navbar-collapse .sign-up-btn {
+        padding: .5rem 4rem;
+        font-size: 1rem;
+    }
+    .navbar-nav .dropdown-menu {
+        overflow: hidden;
+    }
+    #top_header_container .top_header_contents_box h1 {
+        font-size: 3rem;
+    }
+    #top_header_container .top_header_contents_box p {
+        font-size: 1.6rem;
+        margin-top: 1.2rem;
+    }
+    #top_header_container .top_header_contents_box button {
+        font-size: 1rem;
+        padding: 8px 17px;
+        margin-top: 1rem;
+    }
+    #information_cont_img {
+        padding-top: 4rem;
+    }
+    #information_cont_img .row {
+        padding-bottom: 7rem;
+    }
+    #information_cont_img .row .information_cont_box h2 {
+        font-size: 2.6rem;
+        margin-bottom: 3rem;
+    }
+    #information_cont_img .row .information_img_box {
+        padding-top: 4rem;
+    }
+    #card_sec .row {
+        padding: 20px!important;
+    }
+    #card_sec .row h1 {
+        font-size: 2.4rem;
+        line-height: 2.5rem;
+    }
+    #card_sec .row .card_sec_col {
+        flex-direction: column;
+    }
+    #card_sec .row .card_sec_col .card_content_box {
+        padding-top: 2rem;
+    }
+}
